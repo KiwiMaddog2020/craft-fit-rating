@@ -1,0 +1,25 @@
+{
+  "path": "examples/POLISH_example.md",
+  "craft": 8.6,
+  "fit": 9.0,
+  "verdict": "GATED-GO",
+  "findings_count": 0,
+  "new_findings": 3,
+  "open_findings_count": 2,
+  "open_findings": [
+    {
+      "severity": "HIGH",
+      "location": "parser.py:88",
+      "summary": "control characters survive destination validation",
+      "introduced_on_pass": 2,
+      "introduced_by": "claude"
+    },
+    {
+      "severity": "MEDIUM",
+      "location": "index.md:12",
+      "summary": "the notes list is not keyed for screen readers",
+      "introduced_on_pass": 1,
+      "introduced_by": "human"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+title: "Rating your own work without lying to yourself"
+description: A two-axis craft and fit rubric with anti-inflation rules and a runnable report parser
+url: https://kiwimaddog2020.github.io
+baseurl: /craft-fit-rating
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-sitemap
