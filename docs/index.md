@@ -131,3 +131,7 @@ None of this makes a self-assigned score objective. It makes it **honest**,
 which is a smaller and more achievable thing: every grade carries its evidence,
 the forbidden phrases are gone, the score is allowed to stop short, and when it
 stops short it says why instead of pretending.
+
+---
+
+<p class="byline"><em>I build agentic systems across multiple coding LLMs. More of my research notes are <a href="/">here</a>.</em></p>
